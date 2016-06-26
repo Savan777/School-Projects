@@ -1,0 +1,9 @@
+U:\Profile\Desktop\ShapeWars\ShapeWars\bin\Release\ShapeWars.exe
+U:\Profile\Desktop\ShapeWars\ShapeWars\bin\Release\ShapeWars.pdb
+U:\Profile\Desktop\ShapeWars\ShapeWars\obj\x86\Release\ResolveAssemblyReference.cache
+U:\Profile\Desktop\ShapeWars\ShapeWars\obj\x86\Release\ShapeWars.Form1.resources
+U:\Profile\Desktop\ShapeWars\ShapeWars\obj\x86\Release\ShapeWars.Properties.Resources.resources
+U:\Profile\Desktop\ShapeWars\ShapeWars\obj\x86\Release\GenerateResource.read.1.tlog
+U:\Profile\Desktop\ShapeWars\ShapeWars\obj\x86\Release\GenerateResource.write.1.tlog
+U:\Profile\Desktop\ShapeWars\ShapeWars\obj\x86\Release\ShapeWars.exe
+U:\Profile\Desktop\ShapeWars\ShapeWars\obj\x86\Release\ShapeWars.pdb
